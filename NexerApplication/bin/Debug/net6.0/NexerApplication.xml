@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NexerApplication</name>
+    </assembly>
+    <members>
+        <member name="T:NexerApplication.Controllers.WeatherController">
+            <summary>
+            Control responsible for the application's EndPoints
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NexerApplication.Controllers.WeatherController.GetAllWeatherDatas">
+            <summary>
+            Method to return all available data
+            </summary>
+            <returns>a list of data</returns>
+        </member>
+        <member name="M:NexerApplication.Controllers.WeatherController.GetData(System.String,System.DateTime,System.String)">
+            <summary>
+            Method to return data based on specific parameters
+            </summary>
+            <returns>a list of data</returns>
+        </member>
+        <member name="M:NexerApplication.Controllers.WeatherController.GetDataForDevice(System.String,System.DateTime)">
+            <summary>
+            Method to return data based on a specific device
+            </summary>
+            <returns>a list of data</returns>
+        </member>
+    </members>
+</doc>

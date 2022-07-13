@@ -1,0 +1,80 @@
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\NexerApplication.exe
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\NexerApplication.deps.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\NexerApplication.runtimeconfig.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\NexerApplication.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\NexerApplication.pdb
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\scopedcss\bundle\NexerApplication.styles.css
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.csproj.CopyComplete
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\refint\NexerApplication.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.pdb
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\ref\NexerApplication.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\NexerApplication.xml
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net6.0\NexerApplication.xml
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\NexerApplication.exe
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\NexerApplication.deps.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\NexerApplication.runtimeconfig.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\NexerApplication.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\NexerApplication.pdb
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\NexerApplication.xml
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\scopedcss\bundle\NexerApplication.styles.css
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.csproj.CopyComplete
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\refint\NexerApplication.dll
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.xml
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.pdb
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\NexerApplication.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication - Copia\NexerApplication\obj\Debug\net6.0\ref\NexerApplication.dll

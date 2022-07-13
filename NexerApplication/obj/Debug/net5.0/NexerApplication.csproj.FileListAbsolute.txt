@@ -1,0 +1,7 @@
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net5.0\NexerApplication.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net5.0\NexerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net5.0\NexerApplication.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net5.0\NexerApplication.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net5.0\NexerApplication.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net5.0\NexerApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\Desktop\Fontes\JOBs\Nexer\NexerApplication\NexerApplication\obj\Debug\net5.0\NexerApplication.MvcApplicationPartsAssemblyInfo.cache
